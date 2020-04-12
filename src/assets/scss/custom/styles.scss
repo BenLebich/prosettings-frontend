@@ -1,0 +1,24 @@
+.players-list {
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+        object-position: 50% 0%;
+    }
+    h5 {
+        text-align: center;
+    }
+    a {
+        display: block
+    }
+    .description {
+        color: $gray-700;
+    }
+    .col-lg-4 {
+        padding-bottom: 50px;
+    }
+
+}
